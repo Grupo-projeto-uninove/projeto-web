@@ -1,0 +1,22 @@
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://erro.shiftweb.com.br/$1 [R,L]
+# BEGIN cPanel-generated php ini directives, do not edit
+# Manual editing of this file may result in unexpected behavior.
+# To make changes to this file, use the cPanel MultiPHP INI Editor (Home >> Software >> MultiPHP INI Editor)
+# For more information, read our documentation (https://go.cpanel.net/EA4ModifyINI)
+<IfModule php5_module>
+   php_value date.timezone 'America/Sao_Paulo'
+</IfModule>
+# END cPanel-generated php ini directives, do not edit
+Options -Indexes
+## Redirecionar em caso de erros ##
+ErrorDocument 400 https://erro.shiftweb.com.br
+ErrorDocument 403 https://erro.shiftweb.com.br
+ErrorDocument 404 https://erro.shiftweb.com.br
+ErrorDocument 500 https://erro.shiftweb.com.br
+ErrorDocument 501 https://erro.shiftweb.com.br
+ErrorDocument 502 https://erro.shiftweb.com.br
+ErrorDocument 503 https://erro.shiftweb.com.br
+ErrorDocument 504 https://erro.shiftweb.com.br
+ErrorDocument 505 https://erro.shiftweb.com.br
