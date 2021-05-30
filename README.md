@@ -14,8 +14,11 @@
 | 919121126     | Mateus de Oliveira Sales       | Banco de Dados      |    01º 20    |
 
 ## Descrição do Projeto
-Para o projeto do primeiro semestre de 2021, nos foi dado o desafio de criar um sistema WEB, que pode ser uma página Institucional, um Blog, uma API1 (Webservice), um sistema on-line com cadastro de Produtos e/ou Clientes, um Jogo on-line, ou qualquer Sistema WEB.
 
+**Objetivo:** 
+* Para o projeto do primeiro semestre de 2021, nos foi dado o desafio de criar um sistema WEB, que pode ser uma página Institucional, um Blog, uma API1 (Webservice), um sistema on-line com cadastro de Produtos e/ou Clientes, um Jogo on-line, ou qualquer Sistema WEB.
+
+**Etapas:**
 * Com isso, seguimos os seguintes passos para a criação do site chamado **Shiftweb**:
 	+ Criação do Grupo;
 	+ Criação de uma empresa fictícia e/ou elaboração e progressão de um site já existente;
@@ -24,12 +27,13 @@ Para o projeto do primeiro semestre de 2021, nos foi dado o desafio de criar um 
 	+ Criação do repositório para o código;
 	+ Hospedagem web.
 
-Com esse projeto, pretendemos desenvolver um entendimento maior referente à todas as
+**Sobre o site:**
+* Tem o objetivo de prover serviços que realmente se destacam dos demais ofertados no mercado, tanto por seus recursos tecnológicos avançados como pelo atendimento ao cliente realmente diferenciado.
+
+**Aprendizado:**
+* Com esse projeto, desenvolvemos um entendimento maior referente à todas as
 matérias aplicadas até o presente momento.
 
 ## Endereço da Aplicação
 * Endereço da aplicação:
 	+ https://shiftweb.com.br/
-
-## Outras Observações
-Quaisquer instruções sobre instalação, configuração, acesso, etc., deverão constar neste documento para que a correção pelo professor possa ser realizada.
