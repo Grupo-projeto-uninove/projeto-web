@@ -14,7 +14,18 @@
 | 919121126     | Mateus de Oliveira Sales       | Banco de Dados      |    01º 20    |
 
 ## Descrição do Projeto
-Descrever brevemente o objetivo do projeto e como será alcançado. Por exemplo, citar as metodologias utilizadas, linguagens de programação, etc.
+Para o projeto do primeiro semestre de 2021, nos foi dado o desafio de criar um sistema WEB, que pode ser uma página Institucional, um Blog, uma API1 (Webservice), um sistema on-line com cadastro de Produtos e/ou Clientes, um Jogo on-line, ou qualquer Sistema WEB.
+
+* Com isso, seguimos os seguintes passos para a criação do site chamado **Shiftweb**:
+	+ Criação do Grupo;
+	+ Criação de uma empresa fictícia e/ou elaboração e progressão de um site já existente;
+	+ Prototipação do site;
+	+ Elaboração do código;
+	+ Criação do repositório para o código;
+	+ Hospedagem web.
+
+Com esse projeto, pretendemos desenvolver um entendimento maior referente à todas as
+matérias aplicadas até o presente momento.
 
 ## Endereço da Aplicação
 * Endereço da aplicação:
