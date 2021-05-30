@@ -29,6 +29,7 @@
 
 **Sobre o site:**
 * Tem o objetivo de prover serviços que realmente se destacam dos demais ofertados no mercado, tanto por seus recursos tecnológicos avançados como pelo atendimento ao cliente realmente diferenciado.
+* **Linguagens utilizadas:** PHP, CSS e Java
 
 **Aprendizado:**
 * Com esse projeto, desenvolvemos um entendimento maior referente à todas as
